@@ -1,4 +1,7 @@
 # PowerBI-AdventureWorksProject
+
+![Screenshot 2025-03-29 195132](https://github.com/user-attachments/assets/eb390c91-b033-44b8-b75b-e709a646d1aa)
+
 ## Project Overview
 The Adventure Works Power BI Dashboard provides a comprehensive analysis of sales, revenue, product performance, and order trends. The dashboard is designed for executives, sales teams, and operations managers to make data-driven decisions.
 
