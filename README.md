@@ -1,4 +1,4 @@
-# PowerBI-AdventureWorksProject
+# Adventure Works Project
 
 ![Screenshot 2025-03-29 195132](https://github.com/user-attachments/assets/eb390c91-b033-44b8-b75b-e709a646d1aa)
 
